@@ -1,2 +1,2 @@
-# easy_java_projects
+# Simple Java Projects
 easy java projects
